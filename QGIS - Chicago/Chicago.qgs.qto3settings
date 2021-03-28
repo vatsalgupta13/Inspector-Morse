@@ -1,0 +1,361 @@
+{
+  "CAMERA": "PERSPECTIVE",
+  "LAYERS": [
+    {
+      "geomType": 3,
+      "layerId": "__ba8cda74_cc4a_4dd3_8650_6330b749e799",
+      "name": "Narcotics Hotspots",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Count_72cee41a_5de4_44c7_a8a7_f151a0d431b8",
+      "name": "Count Narcotics",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Count_483bf79d_9a62_4e96_83f2_b19878bab64f",
+      "name": "Count Assault",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "Battery_e4fd86fd_f718_40b3_941b_4ffbe619ad49",
+      "name": "Battery",
+      "properties": {
+        "checkBox_Clip": true,
+        "checkBox_ExportAttrs": false,
+        "checkBox_Visible": true,
+        "comboBox_Label": null,
+        "comboBox_ObjectType": "Sphere",
+        "comboBox_altitudeMode": null,
+        "fieldExpressionWidget_altitude": "0",
+        "labelHeightWidget": {
+          "comboData": 0,
+          "comboText": "Absolute",
+          "editText": "0",
+          "type": 6
+        },
+        "radioButton_Expression": true,
+        "radioButton_IntersectingFeatures": true,
+        "styleWidget0": {
+          "comboData": 1,
+          "comboText": "Feature style",
+          "editText": "",
+          "type": 2
+        },
+        "styleWidget1": {
+          "comboData": 1,
+          "comboText": "Feature style",
+          "editText": "",
+          "type": 5
+        },
+        "styleWidget2": {
+          "comboData": null,
+          "comboText": "Expression",
+          "editText": "0.002443",
+          "type": 1
+        },
+        "styleWidget3": {},
+        "styleWidget4": {},
+        "styleWidget5": {}
+      },
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Count_022a159c_5c11_4fbd_bbd9_1f24f490c080",
+      "name": "Count Battery",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "Assault_ae10e310_d541_4855_badf_954157c298b9",
+      "name": "Assault",
+      "properties": {
+        "checkBox_Clip": true,
+        "checkBox_ExportAttrs": false,
+        "checkBox_Visible": true,
+        "comboBox_Label": null,
+        "comboBox_ObjectType": "Sphere",
+        "comboBox_altitudeMode": null,
+        "fieldExpressionWidget_altitude": "0",
+        "labelHeightWidget": {
+          "comboData": 0,
+          "comboText": "Absolute",
+          "editText": "0",
+          "type": 6
+        },
+        "radioButton_Expression": true,
+        "radioButton_IntersectingFeatures": true,
+        "styleWidget0": {
+          "comboData": 1,
+          "comboText": "Feature style",
+          "editText": "",
+          "type": 2
+        },
+        "styleWidget1": {
+          "comboData": 1,
+          "comboText": "Feature style",
+          "editText": "",
+          "type": 5
+        },
+        "styleWidget2": {
+          "comboData": null,
+          "comboText": "Expression",
+          "editText": "0.002443",
+          "type": 1
+        },
+        "styleWidget3": {},
+        "styleWidget4": {},
+        "styleWidget5": {}
+      },
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "Narcotics_3f518e65_80e5_43cd_9b9b_b5f3fedaec48",
+      "name": "Narcotics",
+      "properties": {
+        "checkBox_Clip": true,
+        "checkBox_ExportAttrs": false,
+        "checkBox_Visible": true,
+        "comboBox_Label": null,
+        "comboBox_ObjectType": "Sphere",
+        "comboBox_altitudeMode": null,
+        "fieldExpressionWidget_altitude": "0",
+        "labelHeightWidget": {
+          "comboData": 0,
+          "comboText": "Absolute",
+          "editText": "0",
+          "type": 6
+        },
+        "radioButton_Expression": true,
+        "radioButton_IntersectingFeatures": true,
+        "styleWidget0": {
+          "comboData": 1,
+          "comboText": "Feature style",
+          "editText": "",
+          "type": 2
+        },
+        "styleWidget1": {
+          "comboData": 1,
+          "comboText": "Feature style",
+          "editText": "",
+          "type": 5
+        },
+        "styleWidget2": {
+          "comboData": null,
+          "comboText": "Expression",
+          "editText": "0.002443",
+          "type": 1
+        },
+        "styleWidget3": {},
+        "styleWidget4": {},
+        "styleWidget5": {}
+      },
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Count_457f8dd2_ec28_40fb_a1bd_57bf3c6fef3a",
+      "name": "Count Homicide",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "Homicide_61178bc7_c498_4510_b61d_42b9f0454e67",
+      "name": "Homicide",
+      "properties": {
+        "checkBox_Clip": true,
+        "checkBox_ExportAttrs": false,
+        "checkBox_Visible": true,
+        "comboBox_Label": null,
+        "comboBox_ObjectType": "Sphere",
+        "comboBox_altitudeMode": null,
+        "fieldExpressionWidget_altitude": "0",
+        "labelHeightWidget": {
+          "comboData": 0,
+          "comboText": "Absolute",
+          "editText": "0",
+          "type": 6
+        },
+        "radioButton_Expression": true,
+        "radioButton_IntersectingFeatures": true,
+        "styleWidget0": {
+          "comboData": 1,
+          "comboText": "Feature style",
+          "editText": "",
+          "type": 2
+        },
+        "styleWidget1": {
+          "comboData": 1,
+          "comboText": "Feature style",
+          "editText": "",
+          "type": 5
+        },
+        "styleWidget2": {
+          "comboData": null,
+          "comboText": "Expression",
+          "editText": "0.002443",
+          "type": 1
+        },
+        "styleWidget3": {},
+        "styleWidget4": {},
+        "styleWidget5": {}
+      },
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "forclustering_27bd6fa1_ff07_4d52_88ec_81b00d0b67bd",
+      "name": "forclustering",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "geo_export_8a07bf28_d57a_4f3c_9d9a_966d7082b522_2e064b27_f687_4184_992a_2d3b47df436a",
+      "name": "Census Tracts",
+      "properties": {
+        "checkBox_Clip": true,
+        "checkBox_ExportAttrs": false,
+        "checkBox_Visible": true,
+        "comboBox_Label": null,
+        "comboBox_ObjectType": "Polygon",
+        "comboBox_altitudeMode": null,
+        "fieldExpressionWidget_altitude": "0",
+        "labelHeightWidget": {
+          "comboData": 0,
+          "comboText": "Absolute",
+          "editText": "0",
+          "type": 6
+        },
+        "radioButton_Expression": true,
+        "radioButton_IntersectingFeatures": true,
+        "styleWidget0": {
+          "comboData": 1,
+          "comboText": "Feature style",
+          "editText": "",
+          "type": 2
+        },
+        "styleWidget1": {
+          "comboData": 1,
+          "comboText": "Feature style",
+          "editText": "",
+          "type": 5
+        },
+        "styleWidget2": {},
+        "styleWidget3": {},
+        "styleWidget4": {},
+        "styleWidget5": {}
+      },
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Neighborhoods_2012b_5a2bde9d_dd0b_4532_a3a7_ab9ea269727b",
+      "name": "Neighborhoods_2012b",
+      "properties": {
+        "checkBox_Clip": true,
+        "checkBox_ExportAttrs": false,
+        "checkBox_Visible": true,
+        "comboBox_Label": null,
+        "comboBox_ObjectType": "Extruded",
+        "comboBox_altitudeMode": null,
+        "fieldExpressionWidget_altitude": "0",
+        "labelHeightWidget": {
+          "comboData": 0,
+          "comboText": "Absolute",
+          "editText": "0",
+          "type": 6
+        },
+        "radioButton_Expression": true,
+        "radioButton_IntersectingFeatures": true,
+        "styleWidget0": {
+          "comboData": 1,
+          "comboText": "Feature style",
+          "editText": "",
+          "type": 2
+        },
+        "styleWidget1": {
+          "comboData": 1,
+          "comboText": "Feature style",
+          "editText": "",
+          "type": 5
+        },
+        "styleWidget2": {
+          "comboData": null,
+          "comboText": "Expression",
+          "editText": "12",
+          "type": 1
+        },
+        "styleWidget3": {
+          "comboData": 0,
+          "comboText": "(No Edge)",
+          "editText": "0",
+          "type": 7
+        },
+        "styleWidget4": {},
+        "styleWidget5": {}
+      },
+      "visible": true
+    },
+    {
+      "geomType": 0,
+      "layerId": "FLAT",
+      "name": "Flat Plane",
+      "properties": {
+        "checkBox_Clip": false,
+        "checkBox_Frame": false,
+        "checkBox_Shading": true,
+        "checkBox_Sides": true,
+        "checkBox_Surroundings": false,
+        "checkBox_TransparentBackground": false,
+        "checkBox_Visible": true,
+        "colorButton_Color": "0x000000",
+        "comboBox_ClipLayer": "__ba8cda74_cc4a_4dd3_8650_6330b749e799",
+        "comboBox_TextureSize": 100,
+        "horizontalSlider_DEMSize": 2,
+        "lineEdit_ImageFile": "",
+        "radioButton_MapCanvas": true,
+        "spinBox_Opacity": 100,
+        "spinBox_Roughening": 1,
+        "spinBox_Size": 3,
+        "toolButton_SideColor": "0xccbbaa"
+      },
+      "visible": false
+    }
+  ],
+  "OPT": {
+    "localMode": true,
+    "viewpoint": {
+      "lookAt": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "pos": {
+        "x": 0.0,
+        "y": 100.0,
+        "z": 100.00000000000001
+      }
+    }
+  },
+  "OutputFilename": "C:/Vatsal/Minor Project/QGIS - Chicago/Visualised 3D Images\\index.html",
+  "SCENE": {
+    "checkBox_autoZShift": false,
+    "colorButton_Color": "0x000000",
+    "comboBox_MaterialType": 0,
+    "lineEdit_BaseSize": "100",
+    "lineEdit_zFactor": "1.0",
+    "lineEdit_zShift": "0"
+  },
+  "Template": "3DViewer.html"
+}

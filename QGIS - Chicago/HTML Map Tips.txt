@@ -1,0 +1,49 @@
+To add html map tips:
+Go to properties of the layers.
+Go to HTML Map tips.
+And add the tips.
+For css code:
+
+FOR NARCOTICS, HOMICIDE, ASSAULT, BATTERY
+<style>
+
+body {background-color: #dddddd!important; font-family: sans-serif;}
+
+table {border-collapse: collapse;}
+
+tr {border: 2px solid white;}
+
+td {white-space: nowrap; padding: 5px;}
+
+td.bold {font-weight: bold;}
+
+td.gap {background-color:white;padding:1px;}
+
+</style>
+
+
+<table style="width:100%">
+<th colspan = 3><h2>Details</h2></th>
+<tr><td class="bold">Date and Time:</td><td> [% Date %]</td></tr>
+<tr><td class="bold">Crime Description:</td><td> [% Description %] </td></tr>
+<tr><td class="gap"></td><td class="gap"></td></tr>
+<tr><td class="bold">Location Description:</td><td> [% "Location Description" %]</td></tr>
+</table>
+
+FOR HOTSPOT ANALYSIS:
+<style>
+
+body {background-color: #dddddd!important; font-family: sans-serif;}
+
+table {border-collapse: collapse;}
+
+tr {border: 2px solid white;}
+
+td {white-space: nowrap; padding: 5px;}
+
+td.bold {font-weight: bold;}
+
+td.gap {background-color:white;padding:1px;}
+
+</style>
+<h3>Community Area Number: [% "commarea" %]</h3>

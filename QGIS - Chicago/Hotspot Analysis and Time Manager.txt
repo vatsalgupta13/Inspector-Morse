@@ -1,0 +1,7 @@
+Hotspot analysis needs to be run everytime you run a project as it is not saved.
+- For chicago.qgs: run hotspot analysis for all 4 crime types namely: Assault, Battery, Narcotics, Homicide based on Count layers of each crime type.
+- For Emerging Hotspot.qgs: run hotspot analysis based on count and density on the layer Tract Crime Count ...can also be run on Count Layer but count layer is in WGS 84, we want in other projection. Actually Tract Crime Count is a reprojection of Count only.
+----> So run on Tract Crime Count 
+----> Also run cluster and outlier analysis (Local Moran's Bi) on count - count or density - density
+
+For Time manager, run time manager plugin on the layer Fortimemanager

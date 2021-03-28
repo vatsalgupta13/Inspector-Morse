@@ -1,0 +1,10 @@
+How to add google satellite map to QGIS?
+1) Right click on XYZ Tiles
+2) Select New Connection
+3) Add appropriate name and max and min zoom level that you want
+4) Add the below mentioned URL
+5) Click on OK
+
+Google Maps: https://mt1.google.com/vt/lyrs=m&x={x}&y={y}&z={z}
+Google Satellite: https://mt1.google.com/vt/lyrs=s&x={x}&y={y}&z={z}
+Google Terrain: https://mt1.google.com/vt/lyrs=p&x={x}&y={y}&z={z}
