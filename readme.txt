@@ -1,3 +1,10 @@
+Due to GitHub file restrictions, two important files have not been added in this repository. You can download them from the dropbox links below:
+1) Crimes - 2019.csv (https://www.dropbox.com/s/ubbl2l03jsszbw7/Crimes%20-%202019.csv?dl=0)
+2) Reprojected Layer.dbf (https://www.dropbox.com/s/8b6y7dvnzz3ra6n/Reprojected%20Layer.dbf?dl=0)
+
+After cloning the repository, put Crimes - 2019.csv in the directory --> \Datasets & Code
+and put Reprojected Layer.dbf in the directory --> \QGIS - Chicago\Reprojected Layer
+
 PROJECT SPECIFICATIONS
 
 1) Hardware Specifications
